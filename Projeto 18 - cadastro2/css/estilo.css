@@ -1,0 +1,136 @@
+*{
+    margin: 0 auto;
+}
+
+.conteiner{
+    
+    width: 71%;
+    height:80%;
+    
+}
+
+.coluna{
+    width: 65%;
+    margin-right: 35%;
+    margin-bottom: -4%;
+}
+.cls{
+    clear: both;
+
+}
+
+
+.coluna2{
+    float: left;
+    padding: 1%;
+    margin: 0% 13% 3% -1%;
+}
+
+.coluna3{
+    float: left;
+    padding: 1%;
+    margin: 0% 12% 1% 0%;
+}
+
+.coluna4{
+    float: left;
+    padding: 1%;
+    margin: 0% 0% 1% 0%;
+}
+
+.coluna5{
+    float: left;
+    margin: -5% 6% 0% 11%;
+}
+
+.fo{
+    width: 151%;
+    padding: 6%
+}
+
+.to{
+    width: 165%;
+}
+
+.pa{
+    padding:  1% 27% 1% 1%;
+}
+input.yo {
+    width: 518%;
+}
+
+.ro{
+    padding: 1%;
+}
+
+p.hd {
+    margin-left: 0%;
+    padding-left: 0%;
+}
+.hd {
+    width: 93%;
+    padding: 9px;
+}
+
+.xo{
+    width: 76%;
+    padding: 9px;
+}   
+.coluna6{
+    float: left;
+    width: 40%;
+}
+
+.coluna7{
+    float: left;
+    width: 13%;
+}
+
+p.xo{
+    margin-left: 0%;
+    padding-left: 0%;
+}
+
+.coluna8{
+    float: left;
+    width: 13%;
+}
+
+.oc{
+    width: 273%;
+    padding: 9px;
+}
+p.oc{
+    margin-left: 0%;
+    padding-left: 0%;
+}
+
+.bot{
+    display: flex;
+}
+
+button{
+    width: 40%;
+    background: #19726b;
+    border: 1px solid #19726b;
+    border-radius: 5px;
+    margin-top: 25px;
+    padding: 20px;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+
+hr{
+    margin-top: 20px;
+}
+
+#oi{
+    font-size: 20px;
+}
+
+
+
+
+
+
